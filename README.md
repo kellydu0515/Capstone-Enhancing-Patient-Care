@@ -22,7 +22,10 @@ The capstone project aims to develop a machine-learning model using radiomics fe
 │   README.md
 │   FinalReport.pdf
 ├───EDA_and_Random_Forest
-│       PCA_RFC.ipynb
+│       PCA+RFC.ipynb
+│       Training_set.csv
+│       AllPhenotypes.csv
+│       AdvancedHCC.csv
 ├───KNN
 │      
 ├───LogisticRegression
