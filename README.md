@@ -20,7 +20,7 @@ The capstone project aims to develop a machine-learning model using radiomics fe
 **Directory tree**
 ```
 │   README.md
-│   FinalReport.pdf
+│   F23_Dercle_Enhancing-Patient-Care-AI-for-Hepatocellular-Carcinoma-Diagnosis-and-Management_final_report.pdf
 ├───EDA_and_Random_Forest.zip
 │       PCA+RFC.ipynb
 │       Training_set.csv
