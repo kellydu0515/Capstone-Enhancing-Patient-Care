@@ -27,4 +27,4 @@ The capstone project aims to develop a machine-learning model using radiomics fe
 │       AllPhenotypes.csv
 │       AdvancedHCC.csv
 │   KNNcapstone_knn_version (1).ipynb
-│   LogisticRegression
+│   capstone_logistic_regression.ipynb
